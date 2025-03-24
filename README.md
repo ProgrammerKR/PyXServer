@@ -16,7 +16,7 @@
 
 Clone the repository:  
 ```bash
-git clone https://github.com/your-username/PyXServer.git
+git clone https://github.com/ProgrammerKR/PyXServer.git
 ```
 Navigate to the directory:  
 ```bash
